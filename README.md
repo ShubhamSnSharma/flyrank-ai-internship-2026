@@ -4,8 +4,8 @@ This repository documents my work during the **FlyRank AI Machine Learning Engin
 
 It contains assignments, projects, notebooks, documentation, and supporting resources from both internship tracks:
 
-- 🤖 AI Fluency
-- 🧠 Machine Learning Engineering
+- AI Fluency
+- Machine Learning Engineering
 
 The goal of this repository is to showcase my learning process, engineering decisions, and project work throughout the internship.
 
@@ -13,11 +13,11 @@ The goal of this repository is to showcase my learning process, engineering deci
 
 ```
 flyrank-ai-internship-2026/
-├── AI-Fluency/
-├── Machine-Learning/
-├── Capstone/
-├── Certificates/
-└── Resources/
+├── ai-fluency/
+├── machine-learning/
+├── capstone/
+├── certificates/
+└── resources/
 ```
 
 ## Tech Stack
